@@ -1,0 +1,24 @@
+DX704 Week 1 — Acknowledgments
+Date: 2025-09-07
+
+People / Discussions
+- None.  (Replace with names if you discussed the assignment with classmates, TAs, or others.)
+
+External Libraries (beyond standard course stack)
+- yfinance — used to download adjusted close prices and align to month-end trading days.
+- scipy.optimize (SLSQP) — used to solve constrained mean–variance problems (GMV and target-return frontier).
+- numpy, pandas, matplotlib — used for data wrangling, stats, and plotting. (Remove if these are already standard for the module.)
+
+Data Sources
+- Yahoo Finance (via yfinance) — historical adjusted close prices for AAPL, SPY, TSLA, COST, MSFT, NVDA.
+
+Generative AI Usage
+- Tool: ChatGPT (GPT-5 Thinking)
+- Purpose: assistance on building notebook cells for data collection, returns/risk estimation,
+  efficient frontier construction (GMV/target-return SLSQP), and resampling stability check.
+- Actions taken: ChatGPT reviewed, tested, and helped edit my code; all outputs were validated on my data.
+
+Other Sources
+- None. (If you adapted code from example repos/videos or other references, briefly list them here.)
+
+If none of the above acknowledgments apply, write: "none".
