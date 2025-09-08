@@ -1,0 +1,18 @@
+DX704 Week 1 — Acknowledgments
+Date: 2025-09-08
+
+People / Discussions
+- None.
+
+External Libraries (beyond standard course stack)
+- yfinance — downloaded adjusted close prices.
+- scipy.optimize (SLSQP) — solved constrained mean–variance problems.
+
+Data Sources
+- Yahoo Finance (via yfinance).
+
+Generative AI Usage
+- None.
+
+Other Sources
+- DX601–DX704 example notebooks referenced as allowed.
